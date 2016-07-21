@@ -6,7 +6,7 @@
 using namespace std;
 int main(void)
 {
-    cout<<"Test"<<endl;
     cout<<"remote add"<<endl;
+    cout<<"Test remote"<<endl;
     return  1;
 }
