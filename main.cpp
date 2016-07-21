@@ -8,5 +8,6 @@ int main(void)
 {
     cout<<"remote add"<<endl;
     cout<<"Test remote"<<endl;
+    cout<<"local continue"<<endl;
     return  1;
 }
